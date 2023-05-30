@@ -1,0 +1,7 @@
+version: "2"
+services:
+  ciscn16_reading:
+    build: .
+    image: liey/ciscn16_reading
+    ports:
+      - "8088:8000"

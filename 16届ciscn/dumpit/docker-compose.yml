@@ -1,0 +1,7 @@
+version: "2"
+services:
+  ciscn16_dumpit:
+    build: .
+    image: liey/ciscn16_dumpit
+    ports:
+      - "8088:80"

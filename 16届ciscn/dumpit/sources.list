@@ -1,0 +1,14 @@
+deb [trusted=yes] https://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse
+deb-src [trusted=yes] https://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse
+
+deb [trusted=yes] https://mirrors.aliyun.com/ubuntu/ focal-security main restricted universe multiverse
+deb-src [trusted=yes] https://mirrors.aliyun.com/ubuntu/ focal-security main restricted universe multiverse
+
+deb [trusted=yes] https://mirrors.aliyun.com/ubuntu/ focal-updates main restricted universe multiverse
+deb-src [trusted=yes] https://mirrors.aliyun.com/ubuntu/ focal-updates main restricted universe multiverse
+
+# deb [trusted=yes] https://mirrors.aliyun.com/ubuntu/ focal-proposed main restricted universe multiverse
+# deb-src [trusted=yes] https://mirrors.aliyun.com/ubuntu/ focal-proposed main restricted universe multiverse
+
+deb [trusted=yes] https://mirrors.aliyun.com/ubuntu/ focal-backports main restricted universe multiverse
+deb-src [trusted=yes] https://mirrors.aliyun.com/ubuntu/ focal-backports main restricted universe multiverse

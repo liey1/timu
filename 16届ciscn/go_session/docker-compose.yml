@@ -1,0 +1,7 @@
+version: "2"
+services:
+  ciscn16_go_session:
+    build: .
+    image: liey/ciscn16_go_session
+    ports:
+      - "8088:80"
