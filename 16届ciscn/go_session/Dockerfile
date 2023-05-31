@@ -5,7 +5,7 @@ RUN python3 -m pip install flask
 COPY start.sh /
 
 COPY main /
-COPY flag /
+COPY flag_flag_flag /
 
 RUN mkdir /app
 COPY app/server.py /app/server.py
